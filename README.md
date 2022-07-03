@@ -1,4 +1,8 @@
 # 42 cursus 
+<!-- 
+<img width="637" alt="Screen Shot 2022-07-03 at 6 15 55 PM" src="https://user-images.githubusercontent.com/68208055/177033236-4d06aa05-1443-41ff-bec9-2405521d296a.png">
+
+-->
 [![selim's 42 stats](https://badge42.vercel.app/api/v2/cl553bnwl011609mrmc8i7gt1/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 | Circle | Project | Language | Score | 
